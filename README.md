@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitsahu19
 - 👀 I’m interested in Java, JavaScript(Nodejs)
 - 🌱 I’m currently learning Nodejs  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Nodejs
 - 📫 How to reach me ...https://www.linkedin.com/in/ankit-sahu19/
 
 <!---
